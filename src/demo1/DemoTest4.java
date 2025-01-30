@@ -8,6 +8,10 @@ public class DemoTest4 {
 		String city = "Tampa";
 		
 		System.out.println(name + city);
+
+		if ( city == "Tampa"){
+			System.out.println(" GOOO Tampa ");
+		}
 		
 	}
 
